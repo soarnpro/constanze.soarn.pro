@@ -2,7 +2,7 @@
 # Theme
 theme: 
 # Google Analytics
-google_analytics: UA-114243378-
+google_analytics: UA-114243378-11
 # Plugins
 plugins:
   - jekyll-sitemap
